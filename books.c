@@ -120,7 +120,7 @@ void b_sort(T_Record* a[]){
 			for(j=0;j<c-i-1;j++){
 				#ifdef DEBUG
 				printf("find books j[%d]\n",j);
-				printf("string compare with i and j result : %d\n",strcmp(a[i]->book_name,Books[j]->book_name));
+			printf("string compare with i and j result : %d\n",strcmp(a[i]->book_name,Books[j]->book_name));
 				#endif
 					if(strcmp(a[j]->book_name,a[j+1]->book_name)>0){
 						ptr = a[j];
