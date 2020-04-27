@@ -1,0 +1,36 @@
+choose number : 1.Create  2.Read list  3.Update  4.Delete  5.Read one  6.Search(menu)  7.Search(delivery)  8.Load file  9.Save file  10.add dibs  11.dibs list  0.Quit > 1
+
+Enter a new restaurant's info.
+Name > a
+Main menu > pasta
+Telephone > 01012345678
+Address > Jangsungdong 142703
+Delivery(enter y or n) > n
+
+Choose number : 1.Create  2.Read list  3.Update  4.Delete  5.Read one  6.Search(menu)  7.Search(delivery)  8.Load file  9.Save file  10.add dibs  11.dibs list  0.Quit > 3
+
+1. a
+Choose one number > 1
+This is original info.
+a
+| pasta
+| 01012345678
+| Jangsungdong 142703
+| n
+
+Enter a new restaurant's info.
+Name > b
+Main menu > pasta
+Telephone > 01030775574
+Address > Jangsungdong 1427-18
+Delivery(enter y or n) > y
+
+Choose number : 1.Create  2.Read list  3.Update  4.Delete  5.Read one  6.Search(menu)  7.Search(delivery)  8.Load file  9.Save file  10.add dibs  11.dibs list  0.Quit > 2
+
+1. b
+| pasta
+| 01030775574
+| Jangsungdong 1427-18
+| y
+
+
